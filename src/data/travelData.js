@@ -26,7 +26,7 @@ export const SERVICES = [
     id: 'airport-transfer',
     title: 'Airport Transfers',
     description: 'Punctual pickup and drop services from Jodhpur, Jaipur, and Udaipur airports.',
-    image: 'https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=600',
+    image: 'https://images.bhaskarassets.com/web2images/1884/2026/05/06/bengairport-1_1778054493.jpg',
     tag: '24/7 Service'
   },
   {
@@ -40,7 +40,7 @@ export const SERVICES = [
     id: 'corporate-travel',
     title: 'Corporate Travel',
     description: 'Executive transportation solutions and event fleet management with dedicated support.',
-    image: 'https://images.unsplash.com/photo-1511919884226-fd3cad34687c?q=80&w=600',
+    image: 'https://www.skiltravel.com/public/uploads/blog/1f8a0e92c42d4fa06c253218f4811ce7.webp',
     tag: 'Premium Exec'
   }
 ];
@@ -90,7 +90,7 @@ export const DESTINATIONS = [
     name: 'Jodhpur',
     tagline: 'Blue City Experience',
     description: 'Explore the grand Mehrangarh Fort, Umaid Bhawan Palace, and vibrant blue-painted lanes of the old city.',
-    image: 'https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?q=80&w=800',
+    image: 'https://s7ap1.scene7.com/is/image/incredibleindia/2-mehrangarh-fort-jodhpur-rajasthan-city-hero?qlt=82&ts=1726660925514',
     popularAttractions: ['Mehrangarh Fort', 'Jaswant Thada', 'Umaid Bhawan', 'Clock Tower']
   },
   {
@@ -106,7 +106,7 @@ export const DESTINATIONS = [
     name: 'Udaipur',
     tagline: 'City of Lakes',
     description: 'Cruising Lake Pichola, visiting royal heritage palaces, and exploring the romance of the Venice of the East.',
-    image: 'https://images.unsplash.com/photo-1566552881560-0be862a7c445?q=80&w=800',
+    image: 'https://media.istockphoto.com/id/514102692/photo/udaipur-city-palace-in-rajasthan-state-of-india.jpg?s=612x612&w=0&k=20&c=bYRDPOuf6nFgghl6VAnCn__22SFyu_atC_fiSCzVNtY=',
     popularAttractions: ['City Palace', 'Lake Pichola', 'Jag Mandir', 'Fateh Sagar Lake']
   },
   {
